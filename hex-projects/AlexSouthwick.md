@@ -21,4 +21,4 @@
 10000010000000000
 
 
-![alt text](https://github.com/lizzybrooks/Hex-Memory/blob/master/images/alexsouthwick.png)
+![alt text](https://github.com/lizzybrooks/Hex-Memory/blob/master/images/AlexSouthwick.png)
