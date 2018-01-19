@@ -19,4 +19,6 @@
 0001111111000000000000000
 011000110000000000000000
 10000010000000000
+
+
 ![alt text](https://github.com/lizzybrooks/Hex-Memory/blob/master/images/alexsouthwick.png)
