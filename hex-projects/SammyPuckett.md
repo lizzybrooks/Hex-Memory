@@ -24,5 +24,4 @@ bit stream:
 11011010110101101011011
 11011101111011110111011
 
-![alt text][bwpic]
-[bwpic]: 
+![alt text](https://github.com/lizzybrooks/Hex-Memory/images/SammyPicture.png "B&W Picture")
